@@ -1,9 +1,9 @@
 import Analyze
 import System, System.IO
 
-################### COPYRIGHT FIKRIMF & GEMA @IMMOBI TECHNOLOGY SDN BHD ###############
+###################### COPYRIGHT FIKRIMF & GEMA @IMMOBI TECHNOLOGY SDN BHD #####################
 
-# sdjhsakdhsajkdhkahsd
+# sdjhsakdhsajkdhkahsdsadhasdjhashdkjashjkd
 
 
 #exportfolder = "E:\\Export Plot DT\\UMOBILE - NOKIA\\KUAT\\"        #TARGET FOLDER .JPG/.PNG
