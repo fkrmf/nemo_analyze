@@ -1,4 +1,4 @@
-# nemo_analyze
+# nemo_analyzer plot extractor
 
 How to use this script :
 1. Open Macro in Nemo Analyzer
